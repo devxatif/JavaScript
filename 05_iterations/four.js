@@ -6,16 +6,16 @@ const myObject = {
 }
 
 // for(const key in myObject){
-//     console.log(`${key}shortcut is for ${myObject [key]}`);
+//     console.log(`${key}shortcut is for ${myObject[key]}`);
     
 // }
 
-// const programming = ["Js", "rb", "py", "Java", "cpp"]
+const programming = ["Js", "rb", "py", "Java", "cpp"]
 
-// for(const key in programming){
-//     console.log(programming[key]);
+for(const key in programming){
+    console.log(programming[key]);
     
-// }
+}
 
 // const map = new Map()
 // map.set('IN', "India")
